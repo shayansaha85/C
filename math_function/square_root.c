@@ -6,3 +6,4 @@ int main() {
 	printf("Square root = %f\n",sqrt(number));
 	printf("Square root = %f",sqrt(number1));
 }
+
