@@ -12,3 +12,5 @@ int main() {
 int add(int n,int m) {
 	printf("Added = %d\n",(n+m));
 }
+
+// it will run in turboc only
