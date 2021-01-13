@@ -1,1 +1,0 @@
-extern int e=32;
